@@ -1,0 +1,15 @@
+
+.AuthorName {
+    margin-left: 7px;
+    font-style: italic;
+    color: #656565;
+    font-size: 14px;
+}
+
+.AuthorImg {
+    border-radius: 50%;
+}
+
+.AuthorCard {
+    margin: 10px 0px 15px 0px;
+}

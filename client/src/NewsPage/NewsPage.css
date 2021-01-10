@@ -1,0 +1,48 @@
+.NewsPage {
+    margin-top: 120px;
+}
+
+.NewsPagePhoto {
+    height: 400px;
+    object-fit: cover;
+}
+
+.NewsPageTitle {
+    margin: 10px 0px 10px 0px;
+    text-transform: capitalize;
+}
+
+.NewsPageAuthorCard {
+    margin: 10px 0px 15px 0px;
+}
+
+.NewsPageAuthorImg {
+    border-radius: 50%;
+}
+
+.NewsPageAuthorName {
+    margin-left: 7px;
+    font-style: italic;
+    color: #656565;
+    font-size: 14px;
+}
+
+.politics {
+    color: red
+}
+
+.science {
+    color: #29af29
+}
+
+.sports {
+    color: #ccb61e
+}
+
+.tech {
+    color: #0074ec
+}
+
+.business {
+    color: #ea7004
+}
