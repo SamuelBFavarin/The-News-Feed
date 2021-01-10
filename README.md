@@ -5,7 +5,7 @@ This is the Amazing News Feed! This project provides a client interface created 
 ## Client
 
 The client provides a web interface, to read the most recent news about diverse topics, like Business, Tech, Science, Sports, and Politics. Also, you can filter the news by the same topics, end read the entire news on News Page. 
-[Click here to open the website](www.thenewsfeed.site/) and explore.
+[Click here to open the website](https://www.thenewsfeed.site/) and explore.
 
 ![Home Page](https://i.postimg.cc/Kcqcdbz7/site.png)
 
